@@ -1,0 +1,14 @@
+{
+  "name": "C# Console - .NET 10",
+
+  "image": "mcr.microsoft.com/devcontainers/dotnet:2-10.0-noble",
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-dotnettools.csdevkit"
+      ]
+    }
+  },
+  "remoteUser": "vscode"
+}
